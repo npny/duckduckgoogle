@@ -1,0 +1,15 @@
+body {
+	margin-right: -50vw !important;
+	margin-left: -130px !important;
+}
+
+#duckduckgo-iframe {
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 50vw;
+	height: 100vh;
+	border: none;
+	z-index: 99999;
+	background: white;
+}
